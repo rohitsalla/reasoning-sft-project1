@@ -1,0 +1,8777 @@
+[
+  {
+    "problem_id": "olympiadbench-0001",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0002",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0003",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0004",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0005",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0006",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0007",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0008",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0009",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0010",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0011",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0012",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0013",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0014",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0015",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0016",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0017",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0018",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0019",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0020",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0021",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0022",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0023",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0024",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0025",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0026",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0027",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0028",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0029",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0030",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0031",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0032",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0033",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0034",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0035",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0036",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0037",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0038",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0039",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0040",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0041",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0042",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0043",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0044",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0045",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0046",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0047",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0048",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0049",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0050",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0051",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0052",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0053",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0054",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0055",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0056",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0057",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0058",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0059",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0060",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0061",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0062",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0063",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0064",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0065",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0066",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0067",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0068",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0069",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0070",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0071",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0072",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0073",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0074",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0075",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0076",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0077",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0078",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0079",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0080",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0081",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0082",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0083",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0084",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0085",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0086",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0087",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0088",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0089",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0090",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0091",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0092",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0093",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0094",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0095",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0096",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0097",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0098",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0099",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0100",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0101",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0102",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0103",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0104",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0105",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0106",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0107",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0108",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0109",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0110",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0111",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0112",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0113",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0114",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0115",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0116",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0117",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0118",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0119",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0120",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0121",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0122",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0123",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0124",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0125",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0126",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0127",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0128",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0129",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0130",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0131",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0132",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0133",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0134",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0135",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0136",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0137",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0138",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0139",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0140",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0141",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0142",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0143",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0144",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0145",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0146",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0147",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0148",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0149",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0150",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0151",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0152",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0153",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0154",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0155",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0156",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0157",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0158",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0159",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0160",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0161",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0162",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0163",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0164",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0165",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0166",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0167",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0168",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0169",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0170",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0171",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0172",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0173",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0174",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0175",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0176",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0177",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0178",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0179",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0180",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0181",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0182",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0183",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0184",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0185",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0186",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0187",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0188",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0189",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0190",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0191",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0192",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0193",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0194",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0195",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0196",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0197",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0198",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0199",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0200",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0201",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0202",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0203",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0204",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0205",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0206",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0207",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0208",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0209",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0210",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0211",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0212",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0213",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0214",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0215",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0216",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0217",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0218",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0219",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0220",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0221",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0222",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0223",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0224",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0225",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0226",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0227",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0228",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0229",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0230",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0231",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0232",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0233",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0234",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0235",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0236",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0237",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0238",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0239",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0240",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0241",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0242",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0243",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0244",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0245",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0246",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0247",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0248",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0249",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0250",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0251",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0252",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0253",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0254",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0255",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0256",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0257",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0258",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0259",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0260",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0261",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0262",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0263",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0264",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0265",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0266",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0267",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0268",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0269",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0270",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0271",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0272",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0273",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0274",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0275",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0276",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0277",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0278",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0279",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0280",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0281",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0282",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0283",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0284",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0285",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0286",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0287",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0288",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0289",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0290",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0291",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0292",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0293",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0294",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0295",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0296",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0297",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0298",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0299",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0300",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0301",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0302",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0303",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0304",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0305",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0306",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0307",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0308",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0309",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0310",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0311",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0312",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0313",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0314",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0315",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0316",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0317",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0318",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0319",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0320",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0321",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0322",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0323",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0324",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0325",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0326",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0327",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0328",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0329",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0330",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0331",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0332",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0333",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0334",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0335",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0336",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0337",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0338",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0339",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0340",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0341",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0342",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0343",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0344",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0345",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0346",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0347",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0348",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0349",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0350",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0351",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0352",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0353",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0354",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0355",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0356",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0357",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0358",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0359",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0360",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0361",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0362",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0363",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0364",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0365",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0366",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0367",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0368",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0369",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0370",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0371",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0372",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0373",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0374",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0375",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0376",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0377",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0378",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0379",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0380",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0381",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0382",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0383",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0384",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0385",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0386",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0387",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0388",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0389",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0390",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0391",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0392",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0393",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0394",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0395",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0396",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0397",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0398",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0399",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0400",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0401",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0402",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0403",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0404",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0405",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0406",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0407",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0408",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0409",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0410",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0411",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0412",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0413",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0414",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0415",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0416",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0417",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0418",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0419",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0420",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0421",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0422",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0423",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0424",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0425",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0426",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0427",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0428",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0429",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0430",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0431",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0432",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0433",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0434",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0435",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0436",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0437",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0438",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0439",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0440",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0441",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0442",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0443",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0444",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0445",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0446",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0447",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0448",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0449",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0450",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0451",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0452",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0453",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0454",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0455",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0456",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0457",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0458",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0459",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0460",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0461",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0462",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0463",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0464",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0465",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0466",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0467",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0468",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0469",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0470",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0471",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0472",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0473",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0474",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0475",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0476",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0477",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0478",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0479",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0480",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0481",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0482",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0483",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0484",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0485",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0486",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0487",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0488",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0489",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0490",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0491",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0492",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0493",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0494",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0495",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0496",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0497",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0498",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0499",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0500",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0501",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0502",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0503",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0504",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0505",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0506",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0507",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0508",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0509",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0510",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0511",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0512",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0513",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0514",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0515",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0516",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0517",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0518",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0519",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0520",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0521",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0522",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0523",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0524",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0525",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0526",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0527",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0528",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0529",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0530",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0531",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0532",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0533",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0534",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0535",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0536",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0537",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0538",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0539",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0540",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0541",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0542",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0543",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0544",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0545",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0546",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0547",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0548",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0549",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0550",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0551",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0552",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0553",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0554",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0555",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0556",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0557",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0558",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0559",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0560",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0561",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0562",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0563",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0564",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0565",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0566",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0567",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0568",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0569",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0570",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0571",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0572",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0573",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0574",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0575",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0576",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0577",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0578",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0579",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0580",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0581",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0582",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0583",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0584",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0585",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0586",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0587",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0588",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0589",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0590",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0591",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0592",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0593",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0594",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0595",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0596",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0597",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0598",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0599",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0600",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0601",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0602",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0603",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0604",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0605",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0606",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0607",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0608",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0609",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0610",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0611",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0612",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0613",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0614",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0615",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0616",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0617",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0618",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0619",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0620",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0621",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0622",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0623",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0624",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0625",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0626",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0627",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0628",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0629",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0630",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0631",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0632",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0633",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0634",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0635",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0636",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0637",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0638",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0639",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0640",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0641",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0642",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0643",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0644",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0645",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0646",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0647",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0648",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0649",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0650",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0651",
+    "answers_correctness": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0652",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0653",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0654",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0655",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0656",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0657",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0658",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0659",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0660",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0661",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0662",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0663",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0664",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0665",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0666",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0667",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0668",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0669",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0670",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0671",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0672",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0673",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0674",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "olympiadbench-0675",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  }
+]

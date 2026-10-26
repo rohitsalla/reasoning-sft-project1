@@ -1,0 +1,522 @@
+[
+  {
+    "problem_id": "amc-0001",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0002",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0003",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0004",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0005",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0006",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0007",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0008",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0009",
+    "answers_correctness": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0010",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0011",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0012",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0013",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0014",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0015",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0016",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0017",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0018",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0019",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0020",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0021",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0022",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0023",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0024",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0025",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0026",
+    "answers_correctness": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0027",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0028",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0029",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0030",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0031",
+    "answers_correctness": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0032",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0033",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0034",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0035",
+    "answers_correctness": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "problem_id": "amc-0036",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0037",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0038",
+    "answers_correctness": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0039",
+    "answers_correctness": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "problem_id": "amc-0040",
+    "answers_correctness": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  }
+]

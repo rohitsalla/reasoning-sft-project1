@@ -1,0 +1,22 @@
+{
+  "model_repository": "rohitspider/reasoning-sft-submission-full-15k",
+  "dataset_repository": "rohitspider/reasoning-sft-submission-data-15k",
+  "model_revision": "course-submission-20261020-authors",
+  "dataset_revision": "course-submission-20261020-authors",
+  "training_examples": 15000,
+  "training_updates": 1875,
+  "benchmarks": 9,
+  "visibility": "public",
+  "snapshot_date": "2026-10-26",
+  "published_model_label": "advanced_route",
+  "published_model_seven_task_pass_at_8": 0.5152223567971425,
+  "rubric_evidence": "RUBRIC.md",
+  "assistance_model": {
+    "label": "assistance_coverage",
+    "seven_task_pass_at_8": 0.5247725797592779,
+    "model_weights_published": false,
+    "training_dataset_published": false,
+    "results": "results/rubric-comparison/summary.json"
+  },
+  "repository": "https://github.com/rohitsalla/reasoning-sft-project1"
+}
