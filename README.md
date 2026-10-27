@@ -19,19 +19,6 @@ Each model completed the same nine-benchmark suite: 1,974 questions × eight res
 
 ![All nine completed pass@8 results](report/figures/rubric_benchmarks.png)
 
-## Grading navigation
-
-| Rubric category | Points available | Evidence |
-|---|---:|---|
-| Environment and reproducibility | 10 | [Installation, commands and seeds](REPRODUCE.md), [dependencies](requirements-train-observed.txt), [configs](configs/) |
-| Dataset preparation | 15 | [Preparation and selection](DATA_SELECTION.md), [both public 15K datasets](https://huggingface.co/datasets/rohitspider/reasoning-sft-submission-data-15k/tree/course-submission-20261020-authors) |
-| SFT implementation and training | 20 | [LLaMA-Factory](LLaMA-Factory/), [random config](configs/train_random.yaml), [advanced config](configs/train.yaml), [training evidence](results/rubric-comparison/), [published advanced model](https://huggingface.co/rohitspider/reasoning-sft-submission-full-15k/tree/course-submission-20261020-authors) |
-| Model evaluation | 20 | [Original, random, advanced and assistance results](RESULTS.md), [shared protocol](results/rubric-comparison/protocol.json), [CPU result verifier](scripts/verify_submission.py) |
-| Advanced data selection | 20 | [Motivation, algorithm and comparison](DATA_SELECTION.md), [route implementation](reasoning/routes.py), [assistance selector](reasoning/assistance_selection.py) |
-| Report and analysis | 15 | [PDF](REPORT.pdf), [LaTeX](report/report.tex), [findings and limits](REPORT.md), [figures](report/figures/) |
-
-Points above reproduce the instructor's category weights; they are not self-awarded scores. [RUBRIC.md](RUBRIC.md) maps every subcriterion and names remaining artifact gaps.
-
 ## Public artifacts and model identity
 
 - [Random and advanced datasets](https://huggingface.co/datasets/rohitspider/reasoning-sft-submission-data-15k): `random.json` and `advanced.json`, 15,000 original AceReason examples each.
