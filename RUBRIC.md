@@ -1,5 +1,3 @@
-# Project 1 grading evidence
-
 Snapshot: October 26, 2026. The table maps the instructor’s rubric to the provided evidence. Official LiveBenchmark placement and the top-five bonus are not claimed.
 
 ## Environment setup and reproducibility (10 points available)
