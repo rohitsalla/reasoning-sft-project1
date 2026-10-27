@@ -4,7 +4,7 @@
 
 This project studies full-parameter supervised fine-tuning of Qwen2.5-3B-Instruct on AceReason. It includes completed original-model, random-subset, advanced route-selection and assistance-and-coverage evaluations, with reproducible commands and a rubric-aligned report.
 
-[Grading evidence](RUBRIC.md) · [Report PDF](REPORT.pdf) · [Report summary](REPORT.md) · [All nine results](RESULTS.md) · [Reproduction](REPRODUCE.md) · [Submission checklist](SUBMISSION_CHECKLIST.md)
+[Grading evidence](RUBRIC.md) · [Report PDF](REPORT.pdf) · [Report summary](REPORT.md) · [All nine results](RESULTS.md) · [Results with datasets](RESULTS_WITH_DATASETS.md) · [Reproduction](REPRODUCE.md) · [Submission checklist](SUBMISSION_CHECKLIST.md)
 
 ## Results at a glance
 
